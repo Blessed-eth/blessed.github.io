@@ -8,8 +8,7 @@ class About extends Component {
   render() {
 
     if (this.props.sharedBasicInfo) {
-    var profilepic = process.env.PUBLIC_URL + "/images/myProfilePic.JPG";
-
+   var profilepic = "https://raw.githubusercontent.com/Blessed-eth/blessed.github.io/main/public/images/myProfilePic.JPG";
 
     }
     if (this.props.resumeBasicInfo) {
