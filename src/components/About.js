@@ -8,7 +8,7 @@ class About extends Component {
   render() {
 
     if (this.props.sharedBasicInfo) {
-      var profilepic = "https://raw.githubusercontent.com/Blessed-eth/blessed.github.io/main/public/images/Screen%20Shot%202023-04-26%20at%2012.01.22.png";
+      var profilepic = "https://raw.githubusercontent.com/Blessed-eth/blessed.github.io/main/public/images/myProfilePic.JPG";
 
     }
     if (this.props.resumeBasicInfo) {
