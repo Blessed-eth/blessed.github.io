@@ -15,8 +15,8 @@
       "startDate": "2019",
       "description": "Online book store with user profile, integrated payment system, and backend for managing shipments and returns. As a co-founder of the company, I had to do everything from shipping and accounting to being responsible for web design, SEO, and commercial strategies. It's not the best website I've seen, but it's a start.",
       "images": [
-        "https://raw.githubusercontent.com/Blessed-eth/blessed.github.io/main/portfoliopics/Screen%20Shot%202023-04-26%20at%2012.31.01.png",
-        "https://raw.githubusercontent.com/Blessed-eth/blessed.github.io/main/portfoliopics/Screen%20Shot%202023-04-25%20at%2012.02.55.png"
+        "https://raw.githubusercontent.com/Blessed-eth/demo-repo/main/public/images/Screen%20Shot%202023-04-26%20at%2012.31.01.png",
+        "https://raw.githubusercontent.com/Blessed-eth/demo-repo/main/public/images/Screen%20Shot%202023-04-25%20at%2012.02.55.png"
       ],
       "url": "https://www.defty.cl",
       "technologies": [
@@ -35,8 +35,8 @@
       "startDate": "2022",
       "description": "One of my first UX design case studies and protoyping. I had some expreience Wireframing before taking the Google UX design certificate but I realized didn't understand accessibility nor keeping the user center in every stage of the design process.",
       "images": [
-        "https://raw.githubusercontent.com/Blessed-eth/blessed.github.io/main/portfoliopics/Screen%20Shot%202023-04-26%20at%2012.04.02.png",
-        "https://raw.githubusercontent.com/Blessed-eth/blessed.github.io/main/portfoliopics/Screen%20Shot%202023-04-26%20at%2012.04.12.png"
+        "https://raw.githubusercontent.com/Blessed-eth/demo-repo/main/public/images/Screen%20Shot%202023-04-26%20at%2012.04.02.png",
+        "https://raw.githubusercontent.com/Blessed-eth/demo-repo/main/public/images/Screen%20Shot%202023-04-26%20at%2012.04.12.png"
       ],
       "url": "",
       "technologies": [
@@ -56,8 +56,8 @@
       "startDate": "2023",
       "description": "One of my first freelance web design projects. I had to develop wireframes and prototypes for the site and, after client approval, develop the code in HTML5, CSS, and JavaScript. Later, I decided to adapt the code to deploy it as a React.js app instead of HTML. I learned a lot from this project.",
       "images": [
-        "https://raw.githubusercontent.com/Blessed-eth/blessed.github.io/main/portfoliopics/Screen%20Shot%202023-04-26%20at%2012.01.22.png",
-        "https://raw.githubusercontent.com/Blessed-eth/blessed.github.io/bfc1c3a471266d371a47830eb8985a912d07b1eb/portfoliopics/Screen%20Shot%202023-04-26%20at%2012.02.01.png"
+        "https://raw.githubusercontent.com/Blessed-eth/demo-repo/main/public/images/Screen%20Shot%202023-04-26%20at%2012.01.22.png",
+        "https://raw.githubusercontent.com/Blessed-eth/demo-repo/main/public/images/Screen%20Shot%202023-04-26%20at%2012.02.01.png"
       ],
       "url": "https://github.com",
       "technologies": [
