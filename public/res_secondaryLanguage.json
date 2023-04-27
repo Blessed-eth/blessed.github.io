@@ -1,12 +1,12 @@
 {
   "basic_info": {
-    "description_header": "Hey!",
+    "description_header": "Hola!",
     "description": "👋 Soy Joaquín Farfán. Amante del cine y el diseño web :) Actualmente estoy trabajando con frameworks Front-End como React.js y AngularJS. Mi viaje hacia el Desarrollo Web empezó con mis propios esfuerzos en el mundo del E-commerce, llevandome a decidir entrar a tiempo completo al mundo del diseño de Experiencia de Usuario y Desarrollo Front-End",
     "section_name": {
-      "about": "About me",
-      "projects": "Projects",
-      "skills": "Skills",
-      "experience": "Experience"
+      "about": "Sobre mi",
+      "projects": "Proyectos",
+      "skills": "Habilidades",
+      "experience": "Experiencia"
     }
   },
   "projects": [
