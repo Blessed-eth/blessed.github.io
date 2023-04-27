@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/blessed.github.io/static/css/main.c9ecec30.chunk.css",
+    "main.js": "/blessed.github.io/static/js/main.e94fefb4.chunk.js",
+    "main.js.map": "/blessed.github.io/static/js/main.e94fefb4.chunk.js.map",
+    "runtime-main.js": "/blessed.github.io/static/js/runtime-main.baca385b.js",
+    "runtime-main.js.map": "/blessed.github.io/static/js/runtime-main.baca385b.js.map",
+    "static/css/2.d64471e2.chunk.css": "/blessed.github.io/static/css/2.d64471e2.chunk.css",
+    "static/js/2.ee8de792.chunk.js": "/blessed.github.io/static/js/2.ee8de792.chunk.js",
+    "static/js/2.ee8de792.chunk.js.map": "/blessed.github.io/static/js/2.ee8de792.chunk.js.map",
+    "index.html": "/blessed.github.io/index.html",
+    "precache-manifest.d469af07df66137bea2bce6129e79346.js": "/blessed.github.io/precache-manifest.d469af07df66137bea2bce6129e79346.js",
+    "service-worker.js": "/blessed.github.io/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/blessed.github.io/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.c9ecec30.chunk.css.map": "/blessed.github.io/static/css/main.c9ecec30.chunk.css.map",
+    "static/js/2.ee8de792.chunk.js.LICENSE.txt": "/blessed.github.io/static/js/2.ee8de792.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.baca385b.js",
+    "static/css/2.d64471e2.chunk.css",
+    "static/js/2.ee8de792.chunk.js",
+    "static/css/main.c9ecec30.chunk.css",
+    "static/js/main.e94fefb4.chunk.js"
+  ]
+}
