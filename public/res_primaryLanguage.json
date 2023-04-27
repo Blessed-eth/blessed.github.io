@@ -1,0 +1,110 @@
+{
+  "basic_info": {
+    "description_header": "Hey!",
+    "description": "👋 I'm Joaquin Farfán. A Film enthusiast and web designer :) Currently, I'm working with Front-End frameworks such as React.js and AngularJS. My journey into Web Development began with my own attempts in the E-commerce world, leading me to dive fulltime into UX design and Front-End Development.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "E-commerce website",
+      "startDate": "2019",
+      "description": "Online book store with user profile, integrated payment system, and backend for managing shipments and returns. As a co-founder of the company, I had to do everything from shipping and accounting to being responsible for web design, SEO, and commercial strategies. It's not the best website I've seen, but it's a start.",
+      "images": [
+        "https://raw.githubusercontent.com/Blessed-eth/demo-repo/main/public/images/Screen%20Shot%202023-04-26%20at%2012.31.01.png",
+        "https://raw.githubusercontent.com/Blessed-eth/demo-repo/main/public/images/Screen%20Shot%202023-04-25%20at%2012.02.55.png"
+      ],
+      "url": "https://www.defty.cl",
+      "technologies": [
+        {
+          "class": "devicon-wordpress-plain",
+          "name": "Wordpress"
+        },
+        {
+          "class": "devicon-woocommerce-plain",
+          "name": "Woocommerce"
+        }
+      ]
+    },
+    {
+      "title": "App Prototype",
+      "startDate": "2022",
+      "description": "One of my first UX design case studies and protoyping. I had some expreience Wireframing before taking the Google UX design certificate but I realized didn't understand accessibility nor keeping the user center in every stage of the design process.",
+      "images": [
+        "https://raw.githubusercontent.com/Blessed-eth/demo-repo/main/public/images/Screen%20Shot%202023-04-26%20at%2012.04.02.png",
+        "https://raw.githubusercontent.com/Blessed-eth/demo-repo/main/public/images/Screen%20Shot%202023-04-26%20at%2012.04.12.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-xd-plain",
+          "name": "Adobe XD"
+        },
+        {
+          "class": "devicon-figma-plain",
+          "name": "Figma"
+        }
+      ]
+    },
+
+    {
+      "title": "Personal Website",
+      "startDate": "2023",
+      "description": "One of my first freelance web design projects. I had to develop wireframes and prototypes for the site and, after client approval, develop the code in HTML5, CSS, and JavaScript. Later, I decided to adapt the code to deploy it as a React.js app instead of HTML. I learned a lot from this project.",
+      "images": [
+        "https://raw.githubusercontent.com/Blessed-eth/demo-repo/main/public/images/Screen%20Shot%202023-04-26%20at%2012.01.22.png",
+        "https://raw.githubusercontent.com/Blessed-eth/demo-repo/main/public/images/Screen%20Shot%202023-04-26%20at%2012.02.01.png"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "node.js"
+        }
+      ]
+    }
+  ],
+    "experience": [
+      {
+        "company": "Eneagrama Fanny Torres",
+        "title": "Front-End Developer",
+        "years": "01.2023 - 03.2023",
+        "mainTech": [
+          "React.js"
+        ],
+        "technologies": [
+          "Adobe XD",
+          "Node.js",
+          "JavaScript",
+          "Bootstrap"
+        ]
+      },
+      {
+        "company": "Defty Spa",
+        "title": "Front-End Developer",
+        "years": "09.2019 - 03.2020",
+        "mainTech": [
+          "Elementor"
+        ],
+        "technologies": [
+          "Wordpress",
+          "Woocommerce",
+          "PHP",
+          "JavaScript",
+          "CSS"
+        ]
+      }
+    ]
+  }
