@@ -1,16 +1,23 @@
-name: Deploy
+name: Deploy to GitHub Pages
+
 on:
   push:
     branches:
       - main
+
 jobs:
-  build-and-deploy:
+  deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-      - name: Build and Deploy
-        uses: JamesIves/github-pages-deploy-action@4.1.4
-        with:
-          branch: gh-pages
-          folder: public
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Build site
+      run: |
+        npm install
+        npm run build
+    - name: Deploy site
+      uses: JamesIves/github-pages-deploy-action@4.1.4
+      with:
+        ACCESS_TOKEN: ${{ secrets.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 }}
+        BRANCH: gh-pages
+        FOLDER: public
