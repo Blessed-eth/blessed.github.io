@@ -3,10 +3,27 @@ import { Icon } from "@iconify/react";
 import angularIcon from "@iconify/icons-logos/angular-icon";
 import reactIcon from "@iconify/icons-logos/react";
 import vueIcon from "@iconify/icons-logos/vue";
+import Modal from 'react-modal';
 
 class About extends Component {
-  render() {
+  constructor(props) {
+    super(props);
+    this.state = {
+      isModalOpen: false
+    };
+    this.handleAvatarClick = this.handleAvatarClick.bind(this);
+    this.closeModal = this.closeModal.bind(this);
+  }
 
+  handleAvatarClick() {
+    this.setState({ isModalOpen: true });
+  }
+
+  closeModal() {
+    this.setState({ isModalOpen: false });
+  }
+
+  render() {
     if (this.props.sharedBasicInfo) {
       var profilepic = process.env.PUBLIC_URL + "/images/myProfilePic.jpg";
     }
@@ -25,7 +42,7 @@ class About extends Component {
           <div className="row center mx-auto mb-5">
             <div className="col-md-4 mb-5 center">
               <div className="polaroid">
-                <span style={{ cursor: "auto" }}>
+                <span style={{ cursor: "pointer" }} onClick={this.handleAvatarClick}>
                   <img
                     height="250px"
                     src={profilepic}
@@ -87,6 +104,23 @@ class About extends Component {
               </div>
             </div>
           </div>
+          <Modal isOpen={this.state.isModalOpen} onRequestClose={this.closeModal}>
+  <div className="form-modal">
+    <iframe
+      title="Contact Form"
+      src="https://docs.google.com/forms/d/e/1FAIpQLSc801_ZivYtLHt8Cl0ZgKh8uGLm5dvflSkAme1jDkvNQNv60w/viewform?embedded=true"
+      width="1300"
+      height="554"
+      frameborder="0"
+      marginheight="0"
+      marginwidth="0"
+    >
+      Loading...
+    </iframe>
+  </div>
+</Modal>
+
+
         </div>
       </section>
     );

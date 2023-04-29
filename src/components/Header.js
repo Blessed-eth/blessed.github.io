@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import Typical from "react-typical";
 import Switch from "react-switch";
 
+
 class Header extends Component {
   titles = [];
 
@@ -39,7 +40,9 @@ class Header extends Component {
         <div className="row aligner" style={{height: '100%'}}>
           <div className="col-md-12">
             <div>
+            <a href="./blessed.github.io/public/CV JF 23.pdf" download="CV JF 23.pdf">
               <span className="iconify header-icon" data-icon="la:laptop-code" data-inline="false"></span>
+            </a>
               <br/>
               <h1 className="mb-0">
                 <Typical steps={[name]} wrapper="p" />
