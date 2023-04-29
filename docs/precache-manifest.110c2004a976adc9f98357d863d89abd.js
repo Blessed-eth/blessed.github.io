@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c5b4fe57617085bc2b75565d699567f0",
+    "revision": "624671bb2608882b191ea3fa0adde211",
     "url": "/blessed.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blessed.github.io/static/css/2.d64471e2.chunk.css"
   },
   {
-    "revision": "9c53451d92a600f2c2d7",
+    "revision": "00b82c8c193348d2e126",
     "url": "/blessed.github.io/static/css/main.60be9013.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blessed.github.io/static/js/2.8a5a2417.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9c53451d92a600f2c2d7",
-    "url": "/blessed.github.io/static/js/main.42327768.chunk.js"
+    "revision": "00b82c8c193348d2e126",
+    "url": "/blessed.github.io/static/js/main.cdeae96d.chunk.js"
   },
   {
     "revision": "7c4b4f6857c4bb8100aa",

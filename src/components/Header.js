@@ -40,7 +40,7 @@ class Header extends Component {
         <div className="row aligner" style={{height: '100%'}}>
           <div className="col-md-12">
             <div>
-            <a href="./blessed.github.io/public/CV JF 23.pdf" download="CV JF 23.pdf">
+            <a href="https://github.com/Blessed-eth/blessed.github.io/blob/228677553da3db46680dec5e1df1123b31630826/docs/CV%20JF%2023.pdf" target="_blank">
               <span className="iconify header-icon" data-icon="la:laptop-code" data-inline="false"></span>
             </a>
               <br/>

@@ -25,7 +25,7 @@ class About extends Component {
 
   render() {
     if (this.props.sharedBasicInfo) {
-      var profilepic = process.env.PUBLIC_URL + "./images/myProfilePic.jpg";
+      var profilepic = "https://raw.githubusercontent.com/Blessed-eth/blessed.github.io/228677553da3db46680dec5e1df1123b31630826/images/myProfilePic.JPG";
     }
     if (this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.about;

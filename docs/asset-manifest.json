@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/blessed.github.io/static/css/main.60be9013.chunk.css",
-    "main.js": "/blessed.github.io/static/js/main.42327768.chunk.js",
-    "main.js.map": "/blessed.github.io/static/js/main.42327768.chunk.js.map",
+    "main.js": "/blessed.github.io/static/js/main.cdeae96d.chunk.js",
+    "main.js.map": "/blessed.github.io/static/js/main.cdeae96d.chunk.js.map",
     "runtime-main.js": "/blessed.github.io/static/js/runtime-main.baca385b.js",
     "runtime-main.js.map": "/blessed.github.io/static/js/runtime-main.baca385b.js.map",
     "static/css/2.d64471e2.chunk.css": "/blessed.github.io/static/css/2.d64471e2.chunk.css",
     "static/js/2.8a5a2417.chunk.js": "/blessed.github.io/static/js/2.8a5a2417.chunk.js",
     "static/js/2.8a5a2417.chunk.js.map": "/blessed.github.io/static/js/2.8a5a2417.chunk.js.map",
     "index.html": "/blessed.github.io/index.html",
-    "precache-manifest.17bc177d4f42fb67a80cbe4d4064e375.js": "/blessed.github.io/precache-manifest.17bc177d4f42fb67a80cbe4d4064e375.js",
+    "precache-manifest.110c2004a976adc9f98357d863d89abd.js": "/blessed.github.io/precache-manifest.110c2004a976adc9f98357d863d89abd.js",
     "service-worker.js": "/blessed.github.io/service-worker.js",
     "static/css/2.d64471e2.chunk.css.map": "/blessed.github.io/static/css/2.d64471e2.chunk.css.map",
     "static/css/main.60be9013.chunk.css.map": "/blessed.github.io/static/css/main.60be9013.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.d64471e2.chunk.css",
     "static/js/2.8a5a2417.chunk.js",
     "static/css/main.60be9013.chunk.css",
-    "static/js/main.42327768.chunk.js"
+    "static/js/main.cdeae96d.chunk.js"
   ]
 }
