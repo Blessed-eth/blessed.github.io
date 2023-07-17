@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "name": "Joaquin Farfan",
-    "titles": [ "Front-end Developer", "UX designer", "Web3", "Smart Contracts" ],
+    "titles": [ "Front-end Developer", "UX Designer", "Web3 Developer", "Smart Contracts" ],
     "social": [
       {
         "name": "github",
@@ -10,7 +10,7 @@
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/blessd.eth",
+        "url": "https://www.instagram.com/blessdmf",
         "class": "fab fa-instagram"
       }
     ],
